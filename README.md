@@ -1,4 +1,5 @@
-📱 CryptoApp — Real-Time Cryptocurrency Tracker
+#📱 CryptoApp 
+##Real-Time Cryptocurrency Tracker
 
 A Flutter-based mobile application that displays real-time cryptocurrency market data using the CoinLore Public API. The app provides up-to-date information such as cryptocurrency rankings, symbols, and current prices in USD through a clean and responsive mobile interface.
 
