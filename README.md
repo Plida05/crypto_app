@@ -76,17 +76,18 @@ flutter run
 
 ---
 
-📁 Project Structure
+## 📂 Project Structure
 
-'''
-    crypto_app/
+```
+crypto_app/
+│
 ├── lib/
-│   └── main.dart        # Main application file
-├── android/             # Android-specific files
-├── ios/                 # iOS-specific files
-├── pubspec.yaml         # Dependencies & project config
-└── README.md            # Project documentation
-'''
+│   └── main.dart
+├── android/
+├── ios/
+├── pubspec.yaml
+└── README.md
+```
 
 ---
 
